@@ -42,5 +42,5 @@ android {
 
 dependencies {
     implementation 'com.geniusscansdk:gssdk-scanflow:4.5.1'
-    implementation 'com.geniusscansdk:gssdk-ocr:4.5.1'
+    // implementation 'com.geniusscansdk:gssdk-ocr:4.5.1'
 }
